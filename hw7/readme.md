@@ -1,8 +1,5 @@
 ### Nikhil Solanki
-### CS 361
-### Homework 7
-#### ns3335@drexel.edu
-
+### Multithreaded File Search Script
 **Instructions to Run Code:**
 
 1. Run `make` to build the executable. This will create an executable named `fileSearch` in the current directory.

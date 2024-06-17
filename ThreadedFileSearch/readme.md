@@ -1,7 +1,4 @@
 ### Nikhil Solanki
-### CS 361
-### Homework 7
-#### ns3335@drexel.edu
 
 **Instructions to Run Code:**
 

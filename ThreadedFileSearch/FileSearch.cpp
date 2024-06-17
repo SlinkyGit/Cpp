@@ -1,9 +1,6 @@
 /**
  * Nikhil Solanki
- * CS 361
- * HW 7
  * Please refer to code comments and citations as necessary.
- * Inspired by Professor Boady's searchTask and threadPool classes.
 */
 
 #include "FileSearch.h"

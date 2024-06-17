@@ -1,6 +1,4 @@
 # Nikhil Solanki
-# CS 361 - HW 7
-# Makefile inspired by Mark Boady 2022
 
 CXX=g++
 CXXFLAGS=-std=c++17 -lpthread  
